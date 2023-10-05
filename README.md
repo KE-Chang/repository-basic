@@ -1,6 +1,4 @@
 # repository-basic
-test 
-###hi
 
 
-**get**
+##2018732012_kang_Eochang
