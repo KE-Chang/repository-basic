@@ -1,2 +1,5 @@
 # repository-basic
-###19990324_Kang_EoChang
+### 생년월일
+19990324  
+##ㅇ
+Kang Eo Chang
